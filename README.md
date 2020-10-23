@@ -1,6 +1,8 @@
 # curso-mbrito
 
-This doc is only a suggestion to resolve thymeleaf problem in MBrito Spring Boot Course.
+This doc is only a suggestion to resolve thymeleaf problem in MBrito Spring Boot Course. 
+
+* [Youtube: Curso de Spring Boot: Criando uma aplicação Java Web](https://www.youtube.com/playlist?list=PL8iIphQOyG-DHLpEx1TPItqJamy08fs1D)
 
 ### Tag tg:block problem related by Erik Endler
 
