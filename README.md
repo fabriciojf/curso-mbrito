@@ -89,3 +89,9 @@ attributes.addFlashAttribute("flashType", "success");
 ```
 
 Setting message type danger if you are using Bootstrap to set **Success** colors.
+
+### Thanks
+
+Thanks Michelli Brito for the excellent course about Spring Boot for beginners.
+
+I hope this material helps in some way.
