@@ -97,3 +97,8 @@ Setting message type danger if you are using Bootstrap to set **Success** colors
 Thanks Michelli Brito for the excellent course about Spring Boot for beginners.
 
 I hope this material helps in some way.
+
+
+### Author
+
+Fabricio S Costa - fabriciojf@gmail.com
